@@ -1,0 +1,159 @@
+1_notes.software
+
+
+
+Getting 3D perspective right: https://design.tutsplus.com/tutorials/quick-tip-turn-a-side-view-into-a-3d-view-in-photoshop--cms-23478
+
+https://medium.com/retronator-magazine/game-developers-guide-to-graphical-projections-with-video-game-examples-part-1-introduction-aa3d051c137d
+
+VERY HELPFUL STYLE GUIDE : https://lpc.opengameart.org/static/lpc-style-guide/styleguide.html
+
+How to have easy circular motion: https://www.youtube.com/watch?v=012PPyRS_BY
+
+## Spine Notes
+
+Launch via file>scripts>photoshoptospine
+
+
+
+Set up file 2x the size
+
+Sketch each direction and refine on one layer!!
+
+T-pose, with as little curvature from perspective as possible.
+
+Spine will recognize blending modes: Normal, Linier dodge, multiply, screen.
+You may use adjustment layers to everything, spine just handles it.
+Set up character with different directions in different folders
+
+  Use [folder] [bone] [skin] [merge] [slot] and [ignore] tags at start or end of folder names.
+
+  Set two photoshop rulers at feet.
+
+  set origin point by dragging from corner of rulers
+
+  Use the same name for folders to group them in the same slots (across poses or skins or direction)
+
+Flatten clipping masks and groups
+
+### Creating design
+Remember: character should look good at a large scale, and at a small scale. 
+Does it have a distinctive shilhouette? 
+#### Photoshop file structure:
+
+[skin] Name
+
+​	[folder] direction
+
+​		[slot] body_part
+
+​			direction-body_part
+
+Use [merge] as needed
+
+Make reversed smart objects for any duplicated parts (reversed limbs, etc)
+
+Export at .5x
+
+## SPINE
+
++ + and - to reorder objects (filter by slot, etc first)
+
+Bones: Start with hips
+
+Press control and click the image I want. Can keep ctrl held to select multiple images to parent to the same bone.
+
+Axes: check "parent" axes to adjust exactly how far away from parent bone it is.
+
+With bone slected click "split" in bottom right corner to split into multiple bones. CHECK NESTED MAYBE
+
+back>front
+
+Meshes/weighting
+
+Bind weighting in setup mode
+
+Setup weighting in animate mode. Set one side to an extreme, and then smooth until it looks good.
+
+Move to a pose in animate, if you see artifacts/problems, go back to setup and add stuff to the mesh. switch back to animatee to seee updated results.
+
+## Create duplicates on the other side
+
+Duplicate in place andremove - from translation Ctrl+c to copy transform of a bone.
+HOLD CONTROL TO SELECT MULTIPLE BONES, AND COPY ALL TRANSFORMS. JUST SELECT the ONes That you wANt to DUPLICATE IN THE SAME ORDER AND PASTE THEM.
+
+## Make a turn-around animation
+0. import another version of the data for reference, change direction (search the direciton, toggle all skin placeholders), make transparent. 
+1.  Make new animation "tunraround'"
+
+
+
+# Setting up the turnaround animation
+0. Make sure your character is facing RIGHT. If not, re-export
+1. Toggle all "side" pieces, position them correctly
+2. Repeat^ for front and back
+3. Select all pieces and convert them to meshes all at once.
+4. Set up bones for side pose (remember hip bone first)
+5. Toggle all front or back attchments <<<LOOP>>>
+6. Weight them all to the root bone (once you've bound them, you won't be able to confirm. Switch to animate mode and back to confirm. :( )
+7. Be sure you've weighted any images that were toggled off.
+8. Switch to animate mode
+9. go to the proper frame in your turnaround image
+10. Set sorting correctly
+11. Set filter to bones only. move the bones into the proper position
+12. weight the images fully to the original bones
+13. Remove the root weighting
+14. Key the attachments in the proper frame.
+15.  !!The piece will move into a weird place in setup. this is intended.!!
+16. If you don't want something to be a mesh, just go back to setup and uncheck "mesh.
+17. If you still have another pose, loop back to step 5
+18. Set all images back to side pose in setup.
+
+
+You can also set the slots to a slightly transparent color to see stuff benieth. 
+Make another skeleton for reference, if needed.
+SETUP MODE: Reposition attachments to be properly positioned on their bone.
+ANIMATE MODE: (Use Autokey?) Reposition the bones on each turnaround frame to put the attachments in the right place.
+
+Every 5 frames, make a new keyframe with the correct positions and images for each side.
+
+When making turn-around, H to activate all slected images, and crtl+shift+L to keyframe them all.
+
+## Bones
+1. Import images
+2. Get images in place, corrrect sorting for front.
+3. Create bones on one side, tinting them red. Lighter on the head, darker on the leg.
+4. Bind all the the slots to the bones.
+5. Add meshes to all attachments
+Root > Container > hip
+
+Color each side of the bones differently, so you can keep track. Make the legs a slightly darker version of the color.
+
+Do you need a quick mesh? Use "generate" to add evenly spaced vertices. Check the "vertices" number in the mesh panel to ensure consistency between body parts.
+
+!!check meshes at a distance, roughly in-game size! This will save you a lot of time. Seek to make the roughest animation that looks good, add additional polish later if you need to, once you've seen it in game.
+
+Do you have any mirrored parts? You can make copies of body parts with meshes!
+
+Do you need to duplicate weights? either copy the numbers manually, or press "smooth" on any changed weights until they match.
+
+Are your bones colored consistently? Yellow for middle, red for left, blue for right. Darker legs, lighter head.
+
+Use a regular expression -
+Find: r(.*)2
+Replace: l$1
+
+Do you need a shoulder bone?
+
+Do you need a reversed frame? Reverse the root bone, then copy left then right bones. Go the proper frame, paste right then left bones.
+
+## Animating
+Do you need to offseet bones as they get further and further away from the root movement?
+Import another instance of the project to match animations up. Move the animation over for reference.
+
+## Converting animations to "Stepped"
+Open the graph editor
+Click the visibility dot next to the animation name in the graph editor
+Drag and select all curves and nodes
+click the "stepped" button at the top
+

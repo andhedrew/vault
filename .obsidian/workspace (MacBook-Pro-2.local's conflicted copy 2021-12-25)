@@ -1,0 +1,109 @@
+{
+  "main": {
+    "id": "15866d3d56aa76af",
+    "type": "split",
+    "children": [
+      {
+        "id": "d7e09f2366f46bda",
+        "type": "leaf",
+        "state": {
+          "type": "kanban",
+          "state": {
+            "file": "Personal/Game list.md"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "85982cdc713fd087",
+    "type": "split",
+    "children": [
+      {
+        "id": "9dc7dc780f96d225",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9f0083f428ea68bb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c5f2864f640aef1b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "want",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0748ec38f8ed12d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "231884716fc03b66",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "010d659d0fb14e00",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Personal/Game list.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6b3e6c05d038df83",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "d7e09f2366f46bda",
+  "lastOpenFiles": [
+    "Personal/Game list.md",
+    "Personal/Steam game list.md",
+    "Social Media/Weekly goals.md",
+    "Social Media/Untitled.md",
+    "Untitled 2.md",
+    "Social Media/Instagram.md",
+    "Untitled 1.md",
+    "Marrowroot/Business/Influencer list.txt",
+    "Marrowroot/Business/Marrowroot Marketing Ideas.md",
+    "Marrowroot/Business/Marrowroot Marketing Ideas (MacBook-Pro-2.local's conflicted copy 2021-08-02).md"
+  ]
+}

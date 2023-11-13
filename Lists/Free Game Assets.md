@@ -1,0 +1,1 @@
+https://www.reddit.com/r/gamedev/comments/t9lt22/it_might_be_common_knowledge_butthere_are_tons_of/

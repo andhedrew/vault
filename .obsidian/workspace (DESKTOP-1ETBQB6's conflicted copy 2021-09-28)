@@ -1,0 +1,118 @@
+{
+  "main": {
+    "id": "000672f5880796a3",
+    "type": "split",
+    "children": [
+      {
+        "id": "f6d83974e47c80f2",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Lenses/Process lists/Spine Notes.txt",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "85982cdc713fd087",
+    "type": "split",
+    "children": [
+      {
+        "id": "9dc7dc780f96d225",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9f0083f428ea68bb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c5f2864f640aef1b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0748ec38f8ed12d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "231884716fc03b66",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "010d659d0fb14e00",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Lenses/Process lists/Spine Notes.txt",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7681efad294a6de1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "6b3e6c05d038df83",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "f6d83974e47c80f2",
+  "lastOpenFiles": [
+    "Lenses/Process lists/Spine Notes.txt",
+    "tiles.md",
+    "Untitled 1.md",
+    "Contacting Journalists.md",
+    "Zelda Overworld.md",
+    "Writing/Nonfiction/Blog/_Table of Contents.md",
+    "Writing/Nonfiction/Blog/The Four Indie Dev Skills.md",
+    "Writing/Nonfiction/Blog/How to burn out, hate yourself, and fail. Again..md",
+    "Writing/Nonfiction/Blog/The Four Indie Dev Modes.md",
+    "The Four Indie Dev Modes.md"
+  ]
+}

@@ -1,0 +1,1 @@
+Much has been written about the once controversial practice of spousal termination. This widely-accepted practice has recently been critisized by fringe groups claiming that it is tantamount to murder. These reactionary, extreme groups have been 

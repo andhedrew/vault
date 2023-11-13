@@ -1,0 +1,11 @@
+_notes.game
+
+## Minish Cap
+
+Enemies that are harder/invulnerable until you get the key item (mushrooms that you have to suck the spores out of with the gust jar) Gives a nice feeling of being much more powerful.
+
+Slicing animation for when a enemy is hit, more agressssive slicing animation when enemy is killed
+
+
+
+Gust jar- projectile, neutralizing enemies, turning enemies into projectile, sucking up dust to find secrets and improve mobility, sucking mushrooms, pulling lilly pad, pushing lilly pad, sucking up/breaking lots of pots, collecting items, removing webs, sucking slime, removing damaging web blocks in the mountina, sucking metal masks off of enemies, pulling stones off enemies' backs, making slime enemies wobble uselessly wihtout harming them, capture and arm bomb enemies

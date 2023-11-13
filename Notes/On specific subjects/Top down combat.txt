@@ -1,0 +1,27 @@
+_notes.game
+
+_project.marrow.ideas
+
+_project.marrow.resources
+
+## Top down combat
+
+A few general ideas/observations for good "zelda" type combat:
+
+Enemies are stunned when you hit them, and thrown back a bit, so fighting multiple enemies in a fun and challenging way is accomplished by "juggling" them.
+You can't run to a single enemy and hit him again before he becomes un-stunned unless you have backed him into a wall. This rewards positioning for fast kills.
+Powerful enemies will become briefly immune to the stun and then launch a counterattack after 4-5 hits and not be thrown back during those. This lets the player feel like they are doing a ton of damage, even though you're really just letting them hit the button a few extra times once they land a hit.
+Enemies must have a damage floater or some other visual/audio feedback to being hit.
+The character attacks an area 3 times as wide as the character in the direction you are facing, so you don't need to be overly precise.
+The challenge in the game is always about positioning above all else. Weak enemies are a challenge because there are multiple of them and you need to keep all of them on one side of you to juggle them without taking hits. Large enemies are a challenge because they have some kind of area attack that you need to avoid.
+All enemies that have an attack other than simply bumping into you must have a tell.
+Your character becomes briefly invulnerable when struck by an attack.
+Enemies should not have ranged attacks that can fire in directions that the player can't face. If you have 8 directional movement don't make enemies that can shoot at any additional angles since this will be perceived as them doing things the player can't do.
+Ranged weapons are generally not as much fun in a game like Zelda as melee weapons due to needing two axis inputs to fire in all directions while moving.
+A good way to implement a ranged weapon is to allow it to charge up by holding the button used to fire, while your character is free to move about facing the direction he was facing when the charge began. The player can then release the shot in a different direction than they were walking at the time, allowing them to strafe an enemy.
+Powerful special attacks, magic etc. work best when they are a charge-up ability that still allows you to walk. Not having the ability to smack enemies away from you will make the player have to dodge enemies to avoid damage while charging the ability, which gives a good challenge to things like using magic.
+Crosscode notes
+
+Gradually getting more and more accurate as you hold the button (or more and more damage)
+
+Record of conversation on pause screen

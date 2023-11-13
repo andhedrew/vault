@@ -1,0 +1,110 @@
+{
+  "main": {
+    "id": "000672f5880796a3",
+    "type": "split",
+    "children": [
+      {
+        "id": "41d6ec6d99dbef2e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "How to burn out, hate yourself, and fail. Again..md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "85982cdc713fd087",
+    "type": "split",
+    "children": [
+      {
+        "id": "9dc7dc780f96d225",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9f0083f428ea68bb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c5f2864f640aef1b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0748ec38f8ed12d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "231884716fc03b66",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "010d659d0fb14e00",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "How to burn out, hate yourself, and fail. Again..md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7681efad294a6de1",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "41d6ec6d99dbef2e",
+  "lastOpenFiles": [
+    "How to burn out, hate yourself, and fail. Again..md",
+    "How to Burn Out.md",
+    "Photo organization flow.md",
+    "Untitled.md",
+    "Prayer List.md",
+    "Journal/2021-08-18 .md",
+    "_ref.txt",
+    "Journal/2021-08-17 .md",
+    "Marrowroot/Misc Marrowroot Ideas.txt",
+    "Journal/2021-08-16 .md"
+  ]
+}

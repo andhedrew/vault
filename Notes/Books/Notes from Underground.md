@@ -1,0 +1,1 @@
+"As for what concerns me in particular I have only in my life carried to an extreme what you have not dared to carry halfway, and what's more, you have taken your cowardice for good sense, and have found comfort in deceiving yourselves." -Notes from Underground

@@ -1,0 +1,41 @@
+_project.marrow.marketing
+
+## Building a Steam Page
+
+Notes on this vid: 
+
+http://www.youtube.com/embed/ht6xx9en-ZU
+
+What type of game
+
+What makes it unique
+
+
+
+When someone comes to the page:
+
+\1. Capsule image. Use a color that compliments Steam's blue
+
+\2. People won't watch trailers. They might click through them. Have gameplay througout. They click through the screenshots really fast, they're looking for "how do I play this game". Don't trust that people are watching the trailer, make sure your hook is obvious elsewhere
+
+\3. Short description is about explaining things that aren't story and aren't mood.
+
+\- 45 seconds to browse your page. They skim. They look for nouns and verbs. Hit them over the head with the basics. No subtlety.
+
+
+
+TAGS
+
+All 20 tags
+
+Tag similarly to similar games. You'll get reccomended to players of those games.
+
+
+
+CONTINUE HERE:
+
+<iframe width="500" height="281" src="http://www.youtube.com/embed/ht6xx9en-ZU" frameborder="0" allowfullscreen="" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0); outline: 0px !important; box-sizing: inherit;"></iframe>
+
+ 
+
+Have gifs of different features, illustrating the feature and text explainging it. See "partisans" ssteam page.

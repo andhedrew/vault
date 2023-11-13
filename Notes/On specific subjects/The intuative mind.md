@@ -1,0 +1,1 @@
+"The intuitive mind is a sacred gift and the rational mind is a faithful servant. We have created a society that honors the servant and has forgotten the gift." -Albert Einstein

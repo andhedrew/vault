@@ -1,0 +1,7 @@
+I believe Dr. Jordan Peterson said it, paraphrasing Jung: People don't have ideas, ideas have people.
+What does that mean?
+It means that you don't rationally sort through ideas, selecting the ones you want, casting others away based on raional criteria: not even the most rational people on the planet function that way. 
+How we aquire new ideas and beliefs functions more like this: We reject ideas if they're utterly unpalatable, otherwise we accept things by default. Everything. We read an article by a publication we enjoy, and we integrate the ideas from the article into our worldview without thinking about if they're coherent or not. Read the same kinds of ideas over and over again, and the ideas get reinforced. Pretty soon we can believe things that we never make a consious choice to believe, just through repitition.
+In other words, ideas get dumped into our brains, and if we don't roll up our sleeves and uproot them, they'll take hold and grow into monstrous weeds. In time the roots will be so deep we won't be able to remove them without causing serious damage to our brain.
+
+Ideas own you, if you don't spend the time to write, think, converse with others, and consiously uproot those beliefs that you don't want - then you'll find your life riddled with noxious weeds.

@@ -1,0 +1,1 @@
+Lentils de Puy is warm in a sherry vinaigrette. I top with chevre, walnuts and lots of chopped parsley and it is a perfect meal with a piece of bread.
