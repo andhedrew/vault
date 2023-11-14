@@ -86,32 +86,52 @@
 - **Reward**: Treat yourself to a movie or special meal for consistent weekly completion.
 
 
+## Project 6: Reddit Avatars
+- **Description**: One high-quality avatar
+- **Priority**: High
+- **Tasks**:
+  - [ ] draw avatar
+- **Time Estimation**: 3-4 hours
+- **Goal**: Submit one avatar to see whole process
+- **Reward**: Spend half avatar money on new tech
+
 ## Misc tasks
 - [ ] Design and order a pin for anniversary
 # Weekly Schedule
 _ have you checked every project?_
-- [ ] 
+
 ## Sunday:
 - [x] 3-4 hours Butcher and the Beast
 
 ## Monday:
-- [ ] 1.5 hours Data Annotation
-- [ ] 3-1 work
-- [ ] Free-Bit how-to stream prep
+- [x] 1.5 hours Data Annotation
+- [x] Set up my work schedule
+
+
 ## Tuesday:
-- [ ] 2.5 hours Data Annotation
-- [ ] 0.5 hours illustration
+- [x] 3-1 work
+- [x] 1 hours Data Annotation (1 hour 10 min)
+- [x] 0.5 hours illustration prep
+- [ ] 1 hour drawing avatar during screen time
+
+Data annotation done: 2 hours, 40 minutes
 ## Wednesday:
 - [ ] 1.5 hours Data Annotation
 - [ ] 3-1 done
+
 ## Thursday:
 - [ ] 3-2 work
-- [ ] 1.5 hours illustration
+- [ ] 1 hour Data Annotation
+- [ ] 0.5 hours illustration
+
 ## Friday:
 - [ ] 3-2 done
 - [ ] 3-3 work
+- [ ] 
+
 ## Saturday:
 - [ ] 3-3 done
+- [ ] Free-Bit how-to stream prep
 - [ ] Free-Bit how-to stream
 
 # November:
