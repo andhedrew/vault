@@ -117,7 +117,7 @@ _ have you checked every project?_
 - [x] Free-Bit how-to stream
 
 ## Wednesday:
-- [ ] 3-1 done
+- [x] 3-1 done
 Data annotation done: 2 hours, 40 minutes
 
 ## Thursday:
