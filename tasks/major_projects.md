@@ -112,27 +112,27 @@ _ have you checked every project?_
 - [x] 3-1 work
 - [x] 1 hours Data Annotation (1 hour 10 min)
 - [x] 0.5 hours illustration prep
-- [ ] 1 hour drawing avatar during screen time
+- [x] 1 hour drawing avatar during screen time
+- [x] Free-Bit how-to stream prep
+- [x] Free-Bit how-to stream
 
-Data annotation done: 2 hours, 40 minutes
 ## Wednesday:
-- [ ] 1.5 hours Data Annotation
 - [ ] 3-1 done
+Data annotation done: 2 hours, 40 minutes
 
 ## Thursday:
 - [ ] 3-2 work
-- [ ] 1 hour Data Annotation
+- [ ] 2 hour Data Annotation
 - [ ] 0.5 hours illustration
 
 ## Friday:
 - [ ] 3-2 done
 - [ ] 3-3 work
-- [ ] 
+- [ ] 0.5 Data Annotation
 
 ## Saturday:
 - [ ] 3-3 done
-- [ ] Free-Bit how-to stream prep
-- [ ] Free-Bit how-to stream
+
 
 # November:
 Butcher and beast:
