@@ -8,7 +8,7 @@
 
 ### 2. Pre-Launch Marketing and Community Engagement (March 2024 - May 2024)
 
-- **March 1-15, 2024**: Enhance social media presence; start regular updates on game development progress.
+- **March 1-15, 2024**: High-quality Steam Page research. Assemble Steam page. Enhance social media presence; start regular updates on game development progress.
 - **March 16-31, 2024**: Prepare and release a detailed game trailer showcasing key features and gameplay.
 - **April 1-15, 2024**: Launch a dedicated website for the game with forums for community interaction.
 - **April 16-30, 2024**: Start a bi-weekly newsletter for subscribers, sharing exclusive insights and development updates.
