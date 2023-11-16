@@ -100,6 +100,7 @@
 # Weekly Schedule
 _ have you checked every project?_
 
+Remember: aAAA it gets  you off the treadmill
 ## Sunday:
 - [x] 3-4 hours Butcher and the Beast
 
