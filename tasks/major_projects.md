@@ -6,8 +6,8 @@
 - **Priority**: High
 - **Tasks**: (3 per week to stay on schedule)
   ### Fully playthrough-able - Due `2024-01-01`
-	- [ ] 3-1
-	- [ ] 3-2
+	- [x] 3-1
+	- [x] 3-2
 	- [ ] 3-3
 	
 	- [ ] 4-1
@@ -30,12 +30,13 @@
 	- [ ] 1-1 and tutotial?  Teach as much as possible through gameplay
 	- [ ] link everything together
 	- [ ] maps
+	- [ ] Extra juice and polish pass
   
   - [ ] Play testing and refining - Due `2024-03-01`
   - [ ] Final art - Due `2024-04-01`
 - **Notes**: Determine marketing activities commencement date.
 - **Time Estimation**: 8 hours per week
-- **Reward**: 1 day off after each major task completion
+- **Reward**: 
 
 ## Project 2: The Butcher and the Beast Marketing (on hold)
 ! Can wait until 2024-01-01 !
@@ -55,9 +56,9 @@
 - **Deadline**: `None`
 - **Priority**: Medium
 - **Tasks**:
-  - [ ] Sketch and finish first set of five - Due `2023-05-01`
-  - [ ] Sketch and finish second set of five - Due `2023-06-01`
-  - [ ] Talk about next payment - Due `2023-05-15`
+  - [ ] Sketch and finish first set of five - Due `2023-12-25`
+  - [ ] Sketch and finish second set of five - Due `2024-02-01`
+  - [ ] Talk about next payment - Due `2024-02-01`
   - [ ] Work 1-2 hours per week ongoing
 - **Time Estimation**: 1-2 hours per week
 - **Goal**: Complete each set of sketches
@@ -68,7 +69,7 @@
 - **Deadline**: `None`
 - **Priority**: Low
 - **Tasks**:
-  - [ ] How-to video - Due `2023-11-20`
+  - [x] How-to video - Due `2023-11-20`
   - [ ] Finish plants and trees pack - Due `2023-12-14`
   - [ ] Rocks and ruins (and statues) pack - Due `2024-02-01`
   - [ ] Dwellings, crates, barrels pack - Due `2024-03-01`
@@ -87,20 +88,29 @@
 
 
 ## Project 6: Reddit Avatars
-- **Description**: One high-quality avatar
+- **Description**: Five high-quality avatar
 - **Priority**: High
 - **Tasks**:
-  - [ ] draw avatar
-- **Time Estimation**: 3-4 hours
-- **Goal**: Submit one avatar to see whole process
+  - [x] Draw avatar 1
+  - [x] Draw avatar 2
+  - [ ] Generate more ideas for victorian thing
+  - [ ] Draw avatar 3
+  - [ ] Draw avatar 4
+  - [ ] Draw avatar 5
+- **Time Estimation**: 4 hours
+- **Goal**: Submit 5 avatars
 - **Reward**: Spend half avatar money on new tech
 
-## Misc tasks
-- [ ] Design and order a pin for anniversary
-# Weekly Schedule
-_ have you checked every project?_
+## Project 7: Pin
+- Go through book and design pin
+- Ask ChatGPT to work up a design?
 
-Remember: aAAA it gets  you off the treadmill
+
+
+## Misc tasks
+
+# Weekly Schedule
+
 ## Sunday:
 - [x] 3-4 hours Butcher and the Beast
 
@@ -122,17 +132,21 @@ Remember: aAAA it gets  you off the treadmill
 Data annotation done: 2 hours, 40 minutes
 
 ## Thursday:
-- [ ] 3-2 work
-- [ ] 2 hour Data Annotation
-- [ ] 0.5 hours illustration
+- [x] 3-2 work
+- [x] Start art style shift
+
 
 ## Friday:
-- [ ] 3-2 done
+- [x] 3-2 done
+- [ ] Art style shift done
 - [ ] 3-3 work
-- [ ] 0.5 Data Annotation
+- [ ] 1.5 Data Annotation
+- [ ] 0.5 hours illustration
 
 ## Saturday:
 - [ ] 3-3 done
+- [ ] 1.5 Data Annotation
+
 
 
 # November:
@@ -146,12 +160,30 @@ Butcher and beast:
 - [ ] 5-3
 2-4 hours OCD illustration
 Data annotation, 10 hours
+
 # December:
 Finish Butcher and the Beast fully playthrough-able 
+Butcher and the Beast minimal art additions
+- [ ] 1-1
+- [ ] 1-4
+- [ ] 2-4
+- [ ] 3-4
+- [ ] 4-4
+- [ ] 5-4
 Data annotation, 22 hours
 OCD illustration finish both sets of paid illustration
 Launch first free-bit pack
 4-8 hours OCD illustraition
+
+# January:
+Get Butcher and the Beast to Playtesters (2-3 at at time???)
+Refine and adjust Butcher and the Beast
+8 hours marketing
+Full art Butcher and the Beast
+4-8 OCD illustrations
+Rocks and ruins (and statues) pack
+5.3 hours DA per week
+
 # Notes
 - Adjust weekly schedules based on progress and unexpected changes.
 - Regularly review and revise task deadlines and priorities.
