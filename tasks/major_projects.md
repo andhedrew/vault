@@ -38,7 +38,7 @@
 - **Time Estimation**: 8 hours per week
 - **Reward**: 
 
-## Project 2: The Butcher and the Beast Marketing (on hold)
+## Project 2: The Butcher and the Beast Marketing (on hold until January)
 ! Can wait until 2024-01-01 !
 - **Description**: Develop and execute marketing strategies.
 - **Deadline**: `2024-04-01`
@@ -105,8 +105,11 @@
 - Go through book and design pin
 - Ask ChatGPT to work up a design?
 
-
-
+## Project 8: Streaming
+Streaming game dev
+Devlog
+Streaming pixel art/art
+Streaming games?
 ## Misc tasks
 
 # Weekly Schedule
@@ -116,43 +119,45 @@
 
 ## Monday:
 - [x] 1.5 hours Data Annotation
-- [x] Set up my work schedule
-
+- [x] 0.5 - 1 hour illustration
+- [ ] 3-3 done
+- [ ] 4-1 work
 
 ## Tuesday:
-- [x] 3-1 work
-- [x] 1 hours Data Annotation (1 hour 10 min)
-- [x] 0.5 hours illustration prep
-- [x] 1 hour drawing avatar during screen time
-- [x] Free-Bit how-to stream prep
-- [x] Free-Bit how-to stream
+- [ ]  1.5 hours Data Annotation
+- [ ] 4-1 done (stream?)
 
 ## Wednesday:
-- [x] 3-1 done
-Data annotation done: 2 hours, 40 minutes
+- [ ]  1 hour Data Annotation
+- [ ] 4-2 work
+- [ ] Video
 
 ## Thursday:
-- [x] 3-2 work
-- [x] Start art style shift
 
+_Lunch: Miller Thanksgiving_
+- [ ] 4-2 done
 
 ## Friday:
-- [x] 3-2 done
-- [ ] Art style shift done
-- [ ] 3-3 work
-- [ ] 1.5 Data Annotation
-- [ ] 0.5 hours illustration
+_ Day off _
+- [ ] 4-3 work and done (Stream?)
+- [ ] 1 hour Data Annotation
+- [ ] 0.5 - 1 hour illustration
+
 
 ## Saturday:
-- [ ] 3-3 done
-- [ ] 1.5 Data Annotation
+- [ ] 1 hour Data Annotation
+- [ ] 5-1 work
+_Supper: Rhoda Thanksgiving_
+
+
+
 
 
 
 # November:
 Butcher and beast:
-- [ ] 4-1
-- [ ] 4-2
+
+
 - [ ] 4-3
 
 - [ ] 5-1
