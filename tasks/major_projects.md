@@ -120,17 +120,17 @@ Streaming games?
 ## Monday:
 - [x] 1.5 hours Data Annotation
 - [x] 0.5 - 1 hour illustration
-- [ ] 3-3 done
-- [ ] 4-1 work
+
 
 ## Tuesday:
-- [ ]  1.5 hours Data Annotation
-- [ ] 4-1 done (stream?)
+- [ ] 3-3 done
+- [ ] 4-1 work (stream?)
+- [ ] 100 minutes Data Ann
 
 ## Wednesday:
-- [ ]  1 hour Data Annotation
 - [ ] 4-2 work
-- [ ] Video
+- [ ] Video ideas
+- [ ] 109 minutes Data Annotation
 
 ## Thursday:
 
