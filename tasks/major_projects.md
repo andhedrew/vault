@@ -8,7 +8,7 @@
   ### Fully playthrough-able - Due `2024-01-01`
 	- [x] 3-1
 	- [x] 3-2
-	- [ ] 3-3
+	- [x] 3-3
 	
 	- [ ] 4-1
 	- [ ] 4-2
@@ -102,8 +102,8 @@
 - **Reward**: Spend half avatar money on new tech
 
 ## Project 7: Pin
-- Go through book and design pin
-- Ask ChatGPT to work up a design?
+- [x] Go through book and design pin
+- [ ] Ask ChatGPT to work up a design?
 
 ## Project 8: Streaming
 Streaming game dev
@@ -123,30 +123,31 @@ Streaming games?
 
 
 ## Tuesday:
-- [ ] 3-3 done
-- [ ] 4-1 work (stream?)
-- [ ] 100 minutes Data Ann
+- [x] 3-3 done
+
+- [x] 100 minutes Data Ann
 
 ## Wednesday:
-- [ ] 4-2 work
-- [ ] Video ideas
-- [ ] 109 minutes Data Annotation
+- [ ] 4-1 work (stream?)
+- [ ] pin design and order
+- [ ] record pixel art vid
+- [x] 109 minutes Data Annotation
 
 ## Thursday:
-
 _Lunch: Miller Thanksgiving_
-- [ ] 4-2 done
+- [ ] 4-1 done
+- [ ] edit and post pixel art vid
 
 ## Friday:
 _ Day off _
-- [ ] 4-3 work and done (Stream?)
-- [ ] 1 hour Data Annotation
+- [ ] 4-2 work and done (Stream?)
+- [ ] non-pixel art video ideas
+- [ ] Record a devlog?
 - [ ] 0.5 - 1 hour illustration
 
 
 ## Saturday:
-- [ ] 1 hour Data Annotation
-- [ ] 5-1 work
+- [ ] 4-3 work
 _Supper: Rhoda Thanksgiving_
 
 
