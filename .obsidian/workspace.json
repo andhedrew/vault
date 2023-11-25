@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0b0d601decc82601",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tasks/major_projects.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lists/Game Ideas.txt",
+                "file": "tasks/major_projects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +134,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "2d12d8f32c954699",
+  "active": "0b0d601decc82601",
   "lastOpenFiles": [
     "Tasks/major_projects.md",
     "Lists/Video Ideas.md",
