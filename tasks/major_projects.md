@@ -10,8 +10,8 @@
 	- [x] 3-2
 	- [x] 3-3
 	
-	- [ ] 4-1
-	- [ ] 4-2
+	- [x] 4-1
+	- [x] 4-2
 	- [ ] 4-3
 	
 	- [ ] 5-1
@@ -114,53 +114,46 @@ Streaming games?
 
 # Weekly Schedule
 
+Weekly goals:
+3 Levels Butcher and the Beast
+360 minutes Data Annotation
+5 Illustrations
+1 YouTube video recorded
 ## Sunday:
-- [x] 3-4 hours Butcher and the Beast
+Sabbath
+- [ ] Pay Friday Classes Invoice
 
 ## Monday:
-- [x] 1.5 hours Data Annotation
-- [x] 0.5 - 1 hour illustration
-
+- [ ] 4-3 start
+- [ ] Data Annotation
+- [ ] pin
 
 ## Tuesday:
-- [x] 3-3 done
-
-- [x] 100 minutes Data Ann
+- [ ] 4-3 finish
+- [ ]  Data Annotation
+- [ ] OCD Illustrations
 
 ## Wednesday:
-- [ ] 4-1 work (stream?)
-- [ ] pin design and order
-- [ ] record pixel art vid
-- [x] 109 minutes Data Annotation
+- [ ] 5-1 start
+- [ ] Data Annotation
 
 ## Thursday:
-_Lunch: Miller Thanksgiving_
-- [ ] 4-1 done
-- [ ] edit and post pixel art vid
-
+- [ ] 5-1 finish
 ## Friday:
-_ Day off _
-- [ ] 4-2 work and done (Stream?)
-- [ ] non-pixel art video ideas
-- [ ] Record a devlog?
-- [ ] 0.5 - 1 hour illustration
-
+_Marathon day_
+- [ ] 5-2 start and finish
+- [ ] YouTube video
 
 ## Saturday:
-- [ ] 4-3 work
-_Supper: Rhoda Thanksgiving_
-
-
-
+- [ ] BatB connecting levels
+- [ ] BatB adding enemies and ? blocks and things
+- [ ] BatB iron out wrinkles
 
 
 
 # November:
 Butcher and beast:
-
-
 - [ ] 4-3
-
 - [ ] 5-1
 - [ ] 5-2
 - [ ] 5-3
