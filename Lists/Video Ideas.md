@@ -24,6 +24,7 @@ Pixel Art Patterns and Textures: Creating and applying various patterns and text
 Creating a Pixel Art Scene from Scratch: Building a complete scene or landscape from initial sketch to final piece.
 Pixel Art Tips and Tricks: Sharing lesser-known tips and tricks to enhance pixel art skills.
 Pixel Art Challenges and Exercises: Engaging viewers with challenges and exercises to improve their pixel art skills.
+Dono't use pixel art fonts
 
 
 ## Philosophy, personal growth, work:

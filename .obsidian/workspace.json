@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lists/Game Ideas.txt",
+                "file": "Lists/Video Ideas.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lists/Game Ideas.txt",
+                "file": "Lists/Video Ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,9 +123,9 @@
   },
   "active": "2d12d8f32c954699",
   "lastOpenFiles": [
+    "Lists/Game Ideas.txt",
     "Tasks/major_projects.md",
     "Lists/Video Ideas.md",
-    "Lists/Game Ideas.txt",
     "Untitled.canvas",
     "Lists/Free Game Assets.md",
     "Game Design Docs/Didelphis.md",
