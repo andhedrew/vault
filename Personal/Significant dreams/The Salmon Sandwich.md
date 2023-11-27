@@ -1,7 +1,7 @@
 A dream spanning several periods of sleep.
 
 Beginning
-We can just moved into some sort of cabin, like at skip camp, but bigger and more house-like. Not sure if it was me and my family, or just me (maybe when I was younger) I got the impression that I had moved from cabin to another cabin (because I thought it would be better) and then back again.
+We can just moved into some sort of cabin, like at skip camp, but bigger and more house-like. I think it was me when I was a young man. I got the impression that I had moved from cabin to another cabin (because I thought it would be better) and then back again.
 
 The environment and buildings were part American summer camp, part Japan. It was raining, and there was a beautiful open courtyard behind the cabins with a statue and thick plant life. And people lying in the plants? Maybe naked people basking in the sun? Maybe dead?
 
