@@ -25,11 +25,13 @@ Creating a Pixel Art Scene from Scratch: Building a complete scene or landscape 
 Pixel Art Tips and Tricks: Sharing lesser-known tips and tricks to enhance pixel art skills.
 Pixel Art Challenges and Exercises: Engaging viewers with challenges and exercises to improve their pixel art skills.
 Dono't use pixel art fonts
+Lazy Lines
 
 
 ## Philosophy, personal growth, work:
 
 Don't be a two-stepper
+Productivity for people pleasers: Boss as a service
 
 ## Game design
 
