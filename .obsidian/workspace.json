@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/My writing/Nonfiction/Blog/_Table of Contents.md",
+                "file": "Tasks/major_projects.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/My writing/Nonfiction/Blog/_Table of Contents.md",
+                "file": "Tasks/major_projects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,6 +136,9 @@
   },
   "active": "0b0d601decc82601",
   "lastOpenFiles": [
+    "Tasks/Marketing Schedule.md",
+    "Personal/Heibonsha survey of japanese art.md",
+    "Personal/My writing/Nonfiction/Blog/_Table of Contents.md",
     "Personal/My writing/Nonfiction/The Body and Christ.md",
     "Lists/Video Ideas.md",
     "Tasks/major_projects.md",
@@ -152,7 +155,6 @@
     "Personal/The Guest House",
     "tasks/major_projects.md",
     "Tasks/priorities_and_deadlines",
-    "Tasks/Marketing Schedule.md",
     "Tasks",
     "Scraps/the modern curriculum.txt",
     "Scraps/Marketing and brand stories.txt",
@@ -174,8 +176,6 @@
     "Projects/Marrowroot/Davey's Notes/Make a tile non-colliding.md",
     "Projects/Marrowroot/Davey's Notes/Creating a new door.md",
     "Projects/Marrowroot/Davey's Notes/Create new room.md",
-    "Projects/Marrowroot/Davey's Notes/Converting .psb to prefabs.md",
-    "Projects/Marrowroot/Business/Social Media Notes on Hyperbeard.md",
     "z_Pasted Images/Screen Shot 2022-01-04 at 1.25.07 PM.png",
     "t_doublebigram.png",
     "z_Pasted Images/Screen Shot 2020-05-01 at 11.49.39 AM.png",

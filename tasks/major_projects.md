@@ -12,10 +12,10 @@
 	
 	- [x] 4-1
 	- [x] 4-2
-	- [ ] 4-3
+	- [x] 4-3
 	
-	- [ ] 5-1
-	- [ ] 5-2
+	- [x] 5-1
+	- [x] 5-2
 	- [ ] 5-3
 	
 	- [ ] Boss: Octo
@@ -56,7 +56,7 @@
 - **Deadline**: `None`
 - **Priority**: Medium
 - **Tasks**:
-  - [ ] Sketch and finish first set of five - Due `2023-12-25`
+  - [x] Sketch and finish first set of five - Due `2023-12-25`
   - [ ] Sketch and finish second set of five - Due `2024-02-01`
   - [ ] Talk about next payment - Due `2024-02-01`
   - [ ] Work 1-2 hours per week ongoing
