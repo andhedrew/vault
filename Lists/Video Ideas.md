@@ -1,5 +1,7 @@
 ## Pixel Art, Game Art:
 
+- redrawing game characters in free-bit
+- drawing pokemon in free-bit
 - Classical art fundamentals for games: series
 - How to draw a tree with free-bit
 - Character design

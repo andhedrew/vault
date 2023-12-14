@@ -101,11 +101,8 @@
 - **Goal**: Submit 5 avatars
 - **Reward**: Spend half avatar money on new tech
 
-## Project 7: Pin
-- [x] Go through book and design pin
-- [ ] Ask ChatGPT to work up a design?
 
-## Project 8: Streaming
+## Project 7: Streaming
 Streaming game dev
 Devlog
 Streaming pixel art/art
@@ -114,35 +111,19 @@ Streaming games?
 
 # Weekly Schedule
 
-Weekly goals:
-3 Levels Butcher and the Beast
-360 minutes Data Annotation
-5 Illustrations
-1 YouTube video recorded
 ## Sunday:
 Sabbath
-- [ ] Pay Friday Classes Invoice
 
 ## Monday:
-- [ ] 4-3 start
-- [ ] Data Annotation
-- [ ] pin
 
 ## Tuesday:
-- [ ] 4-3 finish
-- [ ]  Data Annotation
-- [ ] OCD Illustrations
 
 ## Wednesday:
-- [ ] 5-1 start
-- [ ] Data Annotation
 
 ## Thursday:
-- [ ] 5-1 finish
+
 ## Friday:
-_Marathon day_
-- [ ] 5-2 start and finish
-- [ ] YouTube video
+
 
 ## Saturday:
 - [ ] BatB connecting levels
@@ -186,3 +167,9 @@ Rocks and ruins (and statues) pack
 # Notes
 - Adjust weekly schedules based on progress and unexpected changes.
 - Regularly review and revise task deadlines and priorities.
+
+
+# Project archive
+	## Project 7: Pin
+	- [x] Go through book and design pin
+	- [x] Ask ChatGPT to work up a design?
