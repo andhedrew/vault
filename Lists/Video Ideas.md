@@ -1,6 +1,9 @@
 ## Pixel Art, Game Art:
 
 - redrawing game characters in free-bit
+	- Select characters from games that are upcoming, and launch when they start trending: https://www.polygon.com/gaming/23844302/video-game-release-dates-2024-new-upcoming
+	- "Pixel artist redraws ________ from________ ______"
+	- "Game artist redesigns________ __from ____________"
 - drawing pokemon in free-bit
 - Classical art fundamentals for games: series
 - How to draw a tree with free-bit
