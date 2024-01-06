@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a6dc20e068fbae40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lists/Video Ideas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lists/Food Pattern Language.md",
+                "file": "Lists/Video Ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,8 +146,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "0b0d601decc82601",
+  "active": "a6dc20e068fbae40",
   "lastOpenFiles": [
+    "Notes/On specific subjects/Writing/sopranos.md",
+    "Lists/Game Ideas.txt",
     "Lists/Video Ideas.md",
     "Lists/Food Pattern Language.md",
     "Tasks/major_projects.md",
@@ -145,7 +159,6 @@
     "Personal/My writing/Nonfiction/The Body and Christ.md",
     "Personal/Significant dreams/The Salmon Sandwich.md",
     "Personal/Significant dreams",
-    "Lists/Game Ideas.txt",
     "Untitled.canvas",
     "Lists/Free Game Assets.md",
     "Game Design Docs/Didelphis.md",
@@ -174,8 +187,6 @@
     "Projects/Marrowroot/Davey's Notes/unity grid snapping.md",
     "Projects/Marrowroot/Davey's Notes/tiles.md",
     "Projects/Marrowroot/Davey's Notes/Unity Shadergraph Notes.md",
-    "Projects/Marrowroot/Davey's Notes/Make a tile non-colliding.md",
-    "Projects/Marrowroot/Davey's Notes/Creating a new door.md",
     "z_Pasted Images/Screen Shot 2022-01-04 at 1.25.07 PM.png",
     "t_doublebigram.png",
     "z_Pasted Images/Screen Shot 2020-05-01 at 11.49.39 AM.png",
