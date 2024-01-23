@@ -68,6 +68,9 @@ kanban-plugin: basic
 - [ ] limit pickup velocity so they don't go flying
 - [ ] inturruptible chop when damaged
 - [ ] Final food score?
+- [ ] 1-2 camera gets stuck at the flagpole?
+- [ ] HP bar on bosses
+- [ ] Player gets stuck getting off belts - capsule hitbox fix?
 
 
 ## Sounds
