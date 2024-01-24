@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lists/Video Ideas.md",
+                "file": "Notes/FGGS.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lists/Video Ideas.md",
+                "file": "Notes/FGGS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,9 +148,10 @@
   },
   "active": "a6dc20e068fbae40",
   "lastOpenFiles": [
+    "Lists/Video Ideas.md",
+    "Notes/FGGS.md",
     "Notes/On specific subjects/Writing/sopranos.md",
     "Lists/Game Ideas.txt",
-    "Lists/Video Ideas.md",
     "Lists/Food Pattern Language.md",
     "Tasks/major_projects.md",
     "Tasks/Marketing Schedule.md",
