@@ -41,3 +41,7 @@
 ## Game design
 
 - Game Art as a User Interface: how some art functions as user interface more than "set-dressing".
+
+
+## Programming
+Shaders for depth - tilt towards blue, lower contrast, etc.
