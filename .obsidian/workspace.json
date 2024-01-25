@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/FGGS.md",
+                "file": "Notes/Games/Game Loops.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/FGGS.md",
+                "file": "Notes/Games/Game Loops.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,12 +148,13 @@
   },
   "active": "a6dc20e068fbae40",
   "lastOpenFiles": [
+    "Notes/Games/Crosscode.md",
     "Notes/Games/Game Loops.md",
+    "Notes/FGGS.md",
     "Projects/Butcher and the Beast/Play tester log.md",
     "Projects/Butcher and the Beast/Butcher and the Beast bugs and polish.md",
     "Projects/Butcher and the Beast/Butcher and Beast idea log.md",
     "Projects/Butcher and the Beast",
-    "Notes/FGGS.md",
     "Lists/Video Ideas.md",
     "Notes/On specific subjects/Writing/sopranos.md",
     "Lists/Game Ideas.txt",
@@ -187,7 +188,6 @@
     "Projects/Marrowroot/Writing the Script/Quesioning Amos.md",
     "Projects/Marrowroot/Writing the Script/Marrowroot poetry.md",
     "Projects/Marrowroot/Social Media/Ideas.md",
-    "Projects/Marrowroot/Mechanics, design/Marrowroot mechanics.md",
     "z_Pasted Images/Screen Shot 2022-01-04 at 1.25.07 PM.png",
     "t_doublebigram.png",
     "z_Pasted Images/Screen Shot 2020-05-01 at 11.49.39 AM.png",
