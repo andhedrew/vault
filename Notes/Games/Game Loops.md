@@ -1,0 +1,6 @@
+- [ ] Hades
+- [ ] Monster Hunter
+- [ ] Don't Starve
+- [ ] Mega Man X
+- [ ] [[Return of the Obra Dinn]]
+- [ ] Into the Breach
