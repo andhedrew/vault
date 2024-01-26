@@ -1,7 +1,7 @@
 
 # Hades
 1. Buy permanent upgrades
-2. Fight your way through rooms, gaining temporary upgrades (boons, hammers, gold) and permanent resources (gemstones, ambrosia, keys)
+2. Fight your way through rooms, gaining or purchasing temporary upgrades (boons, hammers, gold) and permanent resources (gemstones, ambrosia, keys)
 3. Die, return to Hades
 
 # Monster Hunter
@@ -9,7 +9,7 @@
 2. Depart on the hunt
 	1. Track down quarry, picking up temporary buffs (spiribirds, etc), and permanent resources (honey, minerals, etc) on the way
 	2. Fight until the monster runs away
-	3. Repeat until monster is dead, or low health (tra›p).
+	3. Repeat until monster is dead, or low health (trap).
 3. Kill/trap the monster, gain quest rewards
 
 # Don't Starve
