@@ -35,11 +35,9 @@
             "id": "a6dc20e068fbae40",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Notes/Games/Game Loops.md",
-                "mode": "source",
-                "source": false
+                "file": "Projects/Butcher and the Beast/Butcher and the Beast bugs and polish.md"
               }
             }
           }
@@ -110,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Games/Game Loops.md",
+                "file": "Projects/Butcher and the Beast/Butcher and the Beast bugs and polish.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,9 +146,9 @@
   },
   "active": "a6dc20e068fbae40",
   "lastOpenFiles": [
+    "Notes/Games/Game Loops.md",
     "Notes/Games/Crosscode.md",
     "Notes/FGGS.md",
-    "Notes/Games/Game Loops.md",
     "Projects/Butcher and the Beast/Play tester log.md",
     "Projects/Butcher and the Beast/Butcher and the Beast bugs and polish.md",
     "Projects/Butcher and the Beast/Butcher and Beast idea log.md",

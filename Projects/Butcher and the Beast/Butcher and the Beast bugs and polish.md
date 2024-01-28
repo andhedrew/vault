@@ -47,6 +47,7 @@ kanban-plugin: basic
 - [ ] Pickup drops still teleport through platform sometimes
 - [ ] Evening falls animation adjust
 - [ ] Melon color adjust
+- [ ] UI: have food icon scale and shake when you pick up a food item
 
 
 ## Do next (high-priority)
