@@ -48,6 +48,7 @@ kanban-plugin: basic
 - [ ] Evening falls animation adjust
 - [ ] Melon color adjust
 - [ ] UI: have food icon scale and shake when you pick up a food item
+- [ ] slot machine grinds up the food to make more living food - add conduit and stuff
 
 
 ## Do next (high-priority)
