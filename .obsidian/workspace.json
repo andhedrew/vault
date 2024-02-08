@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Butcher and the Beast/BatB Level design and art.md",
+                "file": "Notes/FGGS.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Butcher and the Beast/BatB Level design and art.md",
+                "file": "Notes/FGGS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,8 +148,8 @@
   },
   "active": "a6dc20e068fbae40",
   "lastOpenFiles": [
-    "Projects/Butcher and the Beast/Butcher and the Beast bugs and polish.md",
     "Projects/Butcher and the Beast/BatB Level design and art.md",
+    "Projects/Butcher and the Beast/Butcher and the Beast bugs and polish.md",
     "Notes/Games/Game Loops.md",
     "Notes/Games/Crosscode.md",
     "Notes/FGGS.md",

@@ -1,3 +1,316 @@
+
+# FGGS
+
+# Module 1:
+
+  
+
+1. Why do you want to live off of your games?
+
+I want to be able to increase my family's options, be generous with people who need money, and create exciting, interesting, high-quality jobs for people who work for me.
+
+1. What would your life be like if you were capable of making a pretty good salary off of your games?
+
+It would be validating - I've spent years making games, building products, and I've had some successes - but I would really like to be very successful so I can introduce myself as a Game Developer, not just as a person with a side-project. I would have more flexibility with my family, and more options generally. More freedom.
+
+1. What’s your definition of success?
+
+Creating great work, creating art that is beautiful, but also art that people can engage with and find meaningful. To use my gifts to create beauty and truth, and ultimately to serve my Creator. To make the best games that I have in me, and to have enough empathy to make games that attract people to them.
+
+1. What sorts of sacrifices are you willing to make to achieve those goals?
+
+Spend more time planning - I'm very action-oriented and it's fun to jam away on the game. Sitting and thinking feels wasteful, and isn't as fun. I'll also continue to spend 3-5 hours per day on the game, and some of it will be on marketing and strategizing. I'm also willing to sacrifice ego - certain games are attractive not because they're beautiful or interesting, but because they display my best aspects, make me look intelligent, or creative. This is not a good enough reason to make something, and I will try my best to axe ego-oriented projects.
+
+  
+
+# Module 2:
+
+  
+
+## How many units do I need to sell to have a living (84,000) ?
+
+$7000 per month: with a $20 game, I make $14. 500 units per month.
+
+For a 6 month project, I’ll need to sell 3000 copies.
+
+  
+
+## How many units do I need to sell to have a really good living (120,000)?
+
+$10000 per month: with a $20 game, I make $14. 714 units per month.
+
+For a 6 month project, must average 4284 copies.
+
+  
+
+  
+
+  
+
+# FGGS Implementation Exercise #2:
+
+**Choose the Arena**
+
+  
+
+_Figuring out which genres and types of games are a better match for your skills and tastes is one of those early decisions that will drastically affect your probability of success - and yet, most indies just find themselves working on one genre or another, without ever having thought deliberately about that! What if there is a genre that you will love investing on and where you can really thrive?_
+
+  
+
+**Part 1: Finding clues**
+
+_The first part of this exercise will help you dig for clues about which things you are better at, and which ones you have more difficulty with._
+
+  
+
+**1. What are the most fun games / prototypes you ever developed?**
+
+Thistledown
+
+  
+
+  
+
+**2. Are there genres where you tried a lot, but still didn't manage to make something that other people really felt attracted to try, or that people from the audience tried but didn’t find all that fun? Are there projects where your final vision for the game is really cool, but the version that you have in your computer is never really good and never seems to capture what would make that project great?**
+
+Top-down zeldalike
+
+  
+
+  
+
+  
+
+  
+
+**3. What projects you ended up abandoning before finishing, and why? What seem to be the most common causes for you to have to abandon a project?**
+
+_Maybe it wasn’t turning out fun? Maybe some aspect of it was so hard to develop that, in practice, you couldn’t keep the momentum going or realized it would take forever to finish? Maybe you lost motivation for some reason? There’s no wrong answer; the important thing here is identifying patterns so that you can, later in this exercise, search for game styles and approaches that will tend to avoid those pitfalls you identify here._
+
+Marrowroot - Failure to find a publisher, too big of a project.
+
+Six Kinds of Lead - Lost interest in finishing it, too big of a project
+
+Good and Dead - Finished, didn’t progress because we were starting Marrowroot
+
+Scraps and Patches - Timmy quit, probably because it was too hard.
+
+The growth/burlap guy game - Same reason?
+
+  
+
+  
+
+**4. What are your main** **"gamedev-proven"** **abilities?**
+
+_Some type(s) of story? Short term gameplay? Long term game systems? Moods? Types of technology that are potentially useful to some genres, such as procedural generation, databases, graphical effects, etc?_
+
+  
+
+Moods (Thistledown has made people sad)
+
+Puzzles (Davey liked Soul Search)
+
+Pixel art (Asset pack)
+
+Juice (chop)
+
+  
+
+  
+
+**5. How good are you with these skills that are almost universally useful for game development?**
+
+  
+
+_Being pragmatic when it comes to design?_
+
+Poor
+
+_Juiciness /_ _“game_ _feel”?_
+
+Good
+
+_Reverse-engineering / understanding / replicating parts of other games’ designs?_
+
+Pretty ok
+
+_Keeping an organized, modular, bug-free code?_
+
+ok
+
+  
+
+**6. Looking at your past 2 years, what were things that you now realize kept you from making your games better, easier to finish or more attractive, and that you could potentially change / fix / improve from now on?**
+
+Expending less  (insecurity-driven) effort on trying to be impressive beyond the scope of my skills, spend more time researching games in my genre to inform my art style.
+
+  
+
+  
+
+  
+
+  
+
+**7. What are your top 5 favorite games of all time? Can you list in one or two phrases the specific aspects of each one that you really enjoyed?**
+
+Cave Story - Story, Feels like a big, real world to explore, juice and sensation
+
+  
+
+Mega Man X - Solid, clear design, neat characters and bosses, I donno.
+
+  
+
+Elechead - Puzzles! Feels like a real world, while still being very clear and dedicated to the puzzles.
+
+  
+
+Oracle of Seasons - Puzzling on a grand scale, Great variety and characters
+
+  
+
+Steamworld Heist - beautiful, interesting puzzling, What (ish) ronin should have felt like.
+
+  
+
+Braid - great puzzles, meaningful, perfect ending
+
+  
+
+**8. What are the aspects of gamedev that you enjoy doing the most?**
+
+Drawing, art style, open-mode thinking about the game systems.
+
+  
+
+  
+
+  
+
+  
+
+**9. What are your dream games - the ones that you would love to work on if you won the lottery and didn't have to be pragmatic?**
+
+Big Zelda game
+
+Giant Metroidvania
+
+Deeply interconnected puzzle platformer
+
+Multiplayer creativity game
+
+  
+
+  
+
+  
+
+  
+
+**Part 2: Choosing the Arena**
+
+_In this second part, you will search and narrow down on a few genres or styles that are a good fit for you, so that on the next implementation stages, you can focus on solutions you are more likely to develop to a high standard. This part only has 2 questions, but remember that all the rest of this exercise was designed to help you with them - they are really, really important! :)_
+
+_Good luck!_
+
+**1. What types of games seem like a good fit for your skills, tastes and goals?**
+
+_Tip: almost every genre or type of game will have a counterpart that is more casual and easier to develop, or that is made of a subset of its features. Someone who would like to develop Super Mario World one day could start with infinite runners, for example. Someone who wants to develop the next SimCity or Civilization could start with a more casual simulator or a virtual board game. Spend a few hours brainstorming if you need; finding good answers here will have a disproportionate impact on your odds of developing successfully!_
+
+  
+
+Platformer, story-heavy
+
+Platformer, puzzler
+
+Platformer, sensation/juice focused with individual levels.
+
+  
+
+**2. Can you think of a few existing games that are examples of the kind of thing you could probably develop with excellence?**
+
+Meatboy (sensation)
+
+Escape Goat 2 (Art, puzzle-focused)
+
+Final Station
+
+  
+
+# Persona
+
+Robert
+
+32
+
+Loves experience, is very aware of sensation and juice in games.
+
+Plays Super Meat Boy, Fruit Ninja, Vlambeer, shovel knight, cave story, “satisfying” things, loves the feeling of physicality and completeness, texture and substance. The opposite of abstraction. Concretization. Fighting against the abstract in every way.
+
+Resisting the abstraction and sterilization of everything.
+
+  
+
+Where do they hang out?
+
+Links:
+
+  
+
+  
+
+# Attention Magnets
+
+## Story
+
+Audience doesns’t care about your story until they’ve bought it
+
+They do care about:
+
+- What sort of fantasy
+- What sort of world
+- What’s the vibe? Mature, dark, ironic, cute, 
+
+  
+
+If you want to know what players care about, watch trailer for story-driven games. What do they focus on?
+
+  
+
+  
+
+# Art Attention Magnets
+
+! = caution
+
+  
+
+! Best Art in Genre
+
+- or at least very strong for a genre
+
+  
+
+# Brave New Art 
+
+Interesting
+
+few comparison parameters
+
+  
+
+# Best Art in Small Arena
+
+Really good graphics for a small comparison parameter
+
+Pick a very specific style where people are used to the style, and make the most beautiful game in that style.
+
+“This looks like a very good ____(genre, platform, whatever)_____ game, so it must be a very good game.”
+
+
+
 ## 5-3: the bread and butter of promotion
 
 1. Set up a mailing list
