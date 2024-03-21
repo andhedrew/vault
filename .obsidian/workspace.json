@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lists/Game Ideas.txt",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0b0d601decc82601",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lists/Food Pattern Language.md",
+                "file": "3 Resources/Game Ideas/Game Ideas.txt",
                 "mode": "source",
                 "source": false
               }
@@ -37,14 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/FGGS.md",
+                "file": "3 Resources/Game Design Notes/Top down combat.txt",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/FGGS.md",
+                "file": "3 Resources/Game Design Notes/Top down combat.txt",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,48 +134,48 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a6dc20e068fbae40",
+  "active": "9f0083f428ea68bb",
   "lastOpenFiles": [
-    "Projects/Butcher and the Beast/BatB Level design and art.md",
-    "Projects/Butcher and the Beast/Butcher and the Beast bugs and polish.md",
-    "Notes/Games/Game Loops.md",
-    "Notes/Games/Crosscode.md",
-    "Notes/FGGS.md",
-    "Projects/Butcher and the Beast/Play tester log.md",
-    "Projects/Butcher and the Beast/Butcher and Beast idea log.md",
-    "Projects/Butcher and the Beast",
-    "Lists/Video Ideas.md",
-    "Notes/On specific subjects/Writing/sopranos.md",
-    "Lists/Game Ideas.txt",
-    "Lists/Food Pattern Language.md",
-    "Tasks/major_projects.md",
-    "Tasks/Marketing Schedule.md",
-    "Personal/Heibonsha survey of japanese art.md",
-    "Personal/My writing/Nonfiction/Blog/_Table of Contents.md",
-    "Personal/My writing/Nonfiction/The Body and Christ.md",
-    "Personal/Significant dreams/The Salmon Sandwich.md",
-    "Personal/Significant dreams",
+    "3 Resources/Game Design Notes",
+    "3 Resources/Art and Creativity/The christian novelist.md",
+    "3 Resources/Health and Improvement/Notes on self-control.txt",
+    "3 Resources/Health and Improvement/Notes on personal growth.txt",
+    "3 Resources/Health and Improvement/Anxiety and creativity.txt",
+    "4 Archive/My writing/Fiction/The unifiers.txt",
+    "4 Archive/My writing/Fiction/In defense of spousal termination.md",
+    "3 Resources/Health and Improvement/The Energy Project.md",
+    "3 Resources/Human Nature/Sentimentality quote.txt",
+    "3 Resources/Human Nature/Interview with Iain McGilchrist.md",
+    "3 Resources/Human Nature/ignoring evident but painful realities.txt",
+    "3 Resources/Human Nature/Anger and vulnerability.md",
+    "2 Areas/Marketing/TikTok for creatives.md",
+    "0 Inbox/Games/2022-07-04 13.11.07.txt",
+    "2 Areas/Marketing/Marketing video games with 0 budget.md",
+    "3 Resources/Art and Creativity/Art and Fear.md",
+    "0 Inbox/Courses/Instagram Strategy for Business Growth.md",
+    "0 Inbox/Books/Untitled.md",
+    "3 Resources/Art and Creativity",
+    "3 Resources/Untitled.md",
+    "3 Resources/Human Nature/admirable evasions.txt",
+    "2 Areas/Marketing/1 million followers.md",
+    "3 Resources/Human Nature/Theological wrinckles to divide people groups.txt",
+    "3 Resources/Writing notes and ideas/Magic laws.md",
+    "3 Resources/Writing notes and ideas/Writing villains.md",
+    "3 Resources/Writing notes and ideas/sopranos.md",
+    "3 Resources/Writing notes and ideas/Four ways to end a story.md",
+    "3 Resources/Dream Journal/Sonia Getting a new job.md",
+    "3 Resources/Dream Journal/The Salmon Sandwich.md",
+    "2 Areas/Animation/Animating a walk cycle.md",
+    "4 Archive/Marrowroot/Didelphis.md",
+    "2 Areas/Drawing/Drawing Lenses Master List.md",
+    "4 Archive/Thistledown - a tragedy of blood/Dungeon design lenses.md",
+    "3 Resources/Game Assets/Free Game Assets.md",
+    "3 Resources/Items I want/Heibonsha survey of japanese art.md",
+    "4 Archive/Marrowroot/Marrowroot.md",
     "Untitled.canvas",
-    "Lists/Free Game Assets.md",
-    "Game Design Docs/Didelphis.md",
-    "Projects/Marrowroot/Screen Shot 2020-05-01 at 11.49.39 AM.png",
+    "4 Archive/Marrowroot/Screen Shot 2020-05-01 at 11.49.39 AM.png",
     "Projects/Screen Shot 2020-05-01 at 11.49.39 AM.png",
     "Screen Shot 2020-05-01 at 11.49.39 AM.png",
-    "Personal/Poems I like/The Guest House",
-    "Personal/The Guest House",
-    "tasks/major_projects.md",
-    "Tasks/priorities_and_deadlines",
-    "Tasks",
-    "Scraps/the modern curriculum.txt",
-    "Scraps/Marketing and brand stories.txt",
-    "Scraps/Latin phrases.txt",
-    "Lenses/Drawing Lenses Master List.md",
-    "Lenses/Dungeon design lenses.md",
-    "Projects/Marrowroot/Business/When the game is almost done/Bundles.md",
-    "Projects/Marrowroot/Business/Business Process lists/How to market on reddit without problems..md",
-    "Projects/Marrowroot/Business/Business Process lists/Contacting Journalists.md",
-    "Projects/Marrowroot/Writing the Script/Quesioning Amos.md",
-    "Projects/Marrowroot/Writing the Script/Marrowroot poetry.md",
     "z_Pasted Images/Screen Shot 2022-01-04 at 1.25.07 PM.png",
     "t_doublebigram.png",
     "z_Pasted Images/Screen Shot 2020-05-01 at 11.49.39 AM.png",

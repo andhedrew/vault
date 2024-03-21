@@ -1,3 +1,0 @@
-_lens
-# business lenses
-Get big slowly. Fast growth kills.
